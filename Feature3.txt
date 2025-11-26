@@ -1,1 +1,3 @@
-Feature 3 file for testing
+Feature 3 file for testing, This updating for 
+
+This is 3rd line for featre 3 branch for testing feature2
