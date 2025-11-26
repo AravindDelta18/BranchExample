@@ -1,4 +1,3 @@
-This is feature 4 first file.
 This branch is created under Feature 2
 
-I want to merge conflicts from feature 2
+I want to merge conflicts from feature 4
