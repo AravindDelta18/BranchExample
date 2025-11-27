@@ -1,0 +1,2 @@
+This is main file testing the rebase functionality for conflicts way.
+--sourcefile
