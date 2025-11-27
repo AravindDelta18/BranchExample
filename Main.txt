@@ -5,6 +5,6 @@ This is 4th line in source filer.
 This is 5th line in source filer.
 This is 6th line in source filer.
 
+This is 8th line in destination file.
 This is 8th line in source filer.
-
 This is 10th line in source file for testing conflicts
