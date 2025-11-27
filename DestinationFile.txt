@@ -1,0 +1,1 @@
+This is destination file testing the rebase functionality.
