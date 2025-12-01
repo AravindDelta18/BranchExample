@@ -1,0 +1,1 @@
+This is second Reset file in Reset_Branch created through the Source-example branch
