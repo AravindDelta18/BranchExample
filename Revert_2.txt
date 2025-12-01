@@ -1,1 +1,0 @@
-This is second file in revert-example branch created by source branch.
